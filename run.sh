@@ -1,0 +1,1 @@
+./byteDiff < inputFile.txt
